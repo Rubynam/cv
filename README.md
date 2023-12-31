@@ -49,18 +49,18 @@ Software engineer in Viet Nam 🇻🇳 <br>
     - Built databases and table structures for web applications.
     - Wrote clean, clear and well-tested code for various projects such as Spring security, Redis, Spring ACL, Role Base Access Control theorem.
     - Designed and implemented scalable applications for data extraction and analysis.
-- **Project: Configuration Center as a Service**
+- **Project: Configuration Center as a Service (ZaloPay)**
   - *Duration: November 2020 - May 2021*
     - Developed Java code for Spring Framework.
     - Developed API using Http Rest API and GRPC.
     - Developed Kafka message to notify the new configuration data has been updated.
-- **Project: Refund Service**  
+- **Project: Refund Service (ZaloPay)**  
   - *Duration: May 2020 - July 2020*
     - Developed and maintained Refund service.
     - Applied tracing system (Jaeger) to monitor service.
     - Integrated the Refund services with various e-commerce platforms.
     - Deployed cloud infrastructure and distributed systems on VNG Cloud.
-- **Customer Service Tool**
+- **Customer Service Tool (ZaloPay)**
   - *Duration: October 2018 - December 2020*
     - Developed APIs using HTTP REST API and integrated third-party services (user management, Elasticsearch, risk service, refund service) to provide the Customer Service team with the information needed to help resolve client issues.
     - Collaborated with the compliance team to implement anti-money laundering (AML) and Know Your Customer (KYC) features, ensuring regulatory compliance.
