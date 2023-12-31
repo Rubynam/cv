@@ -8,6 +8,7 @@ Software engineer in Viet Nam 🇻🇳 <br>
 
 ## Naver Viet Nam - Software Engineer
 *Location: Ho Chi Minh city, Viet Nam*
+
 *Duration: October 2022 - Present*
 
 - **Project: Bug Bounty**
@@ -23,14 +24,17 @@ Software engineer in Viet Nam 🇻🇳 <br>
 
 ## Bosch - Senior Software Engineer
 *Location: Ho Chi Minh city, Viet Nam*
+
 *Duration: June 2022 - Sep 2022*
 - **Project: ICDM**
-  - Resolved problems, improved operations and provided exceptional service.
-  - Worked with customers to understand needs and provide excellent service.
+  - *Duration: June 2022 - Sep 2022*
+    - Resolved problems, improved operations and provided exceptional service.
+    - Worked with customers to understand needs and provide excellent service.
 
 
 ## VNG - Fresher, Software Engineer, Senior Software Engineer
 *Location: Ho Chi Minh city, Viet Nam*
+
 *Duration: October 2018 - May 2022*
 
 - **Project: Payment engine (ZaloPay)**
